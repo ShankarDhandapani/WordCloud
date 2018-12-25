@@ -13,4 +13,5 @@
 3) Enter the Number of inputs and Click "Go" Button.
 4) Now enter the inputs in each text box and Click the "Get Output" Button.
 5) You will get the output as:
+
 ![Sample Output](https://raw.githubusercontent.com/ShankarDhandapani/WordCloud/master/Figure_1.png)
